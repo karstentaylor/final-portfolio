@@ -14,8 +14,8 @@ export default class Work extends Component {
 					<img src={MyRewolf} alt="MyRewolf" />
 					<p>
 						MyRewolf is an app that was created for a creative agency. It allows
-						their customers to answer their discovery questionnaire so they can
-						meet their social media needs.
+						their customers to answer their discovery questionnaire so Rewolf
+						can work towards helping the clients with their social media needs.
 					</p>
 					<h4>Tech Stack:</h4>
 					<p>Front-End was built using React</p>
@@ -36,7 +36,8 @@ export default class Work extends Component {
 					<p>
 						This Spaced-Repetition application was built using a linked list and
 						the spaced repetition algorithm to help users learn to count to ten
-						in German.
+						in German. Created for those who have an interest in beginning to
+						learn a new language.
 					</p>
 					<h4>Tech Stack:</h4>
 					<p>Front-End: React</p>
@@ -55,8 +56,9 @@ export default class Work extends Component {
 					<h3>Binaural</h3>
 					<img src={Binaural} alt="Binaural" />
 					<p>
-						This app was created to help the user acheive an altered state of
-						consciousness through the use of binaural beats.
+						This app was created to help the user achieve an altered state of
+						consciousness through the use of binaural beats. It ties in with a
+						visualizer that enhances the experience for users.
 					</p>
 					<h4>Tech Stack:</h4>
 					<p>Front-End: React, Web-Audio API, Sine Waves </p>

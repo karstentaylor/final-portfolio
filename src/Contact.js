@@ -13,7 +13,9 @@ export default class Contact extends Component {
 				</p>
 				<p>
 					LinkedIn @
-					<a href="www.linkedin.com/in/karsten-taylor">Karstentaylor</a>
+					<a href="https://www.linkedin.com/in/karsten-taylor/">
+						Karstentaylor
+					</a>
 				</p>
 				<p>
 					GitHub @<a href="https://github.com/karstentaylor">Karstentaylor</a>
